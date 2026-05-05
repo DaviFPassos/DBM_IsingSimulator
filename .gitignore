@@ -1,0 +1,19 @@
+# Virtual Environment
+venv_dbm/
+venv/
+env/
+.venv/
+
+# Data files
+ising_data/
+*.npy
+*.npy.gz
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+.env
